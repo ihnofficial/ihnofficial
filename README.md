@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Angular JS & Advance MSSQL**
 
-- 👨‍💻 All of my projects are available at [www.ihnoffical.com](https://www.ihnoffical.com/)
-
-- 📫 How to reach me **ihnaimofficial@gmail.com**
-
 <div>
   <h3 align="left">Connect with me:</h3>
 <div align="left" style="padding: 10px; border:1px solid #6600cc">
+
+  <a href="https://www.ihnoffical.com/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-blue.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/ihnofficial" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
