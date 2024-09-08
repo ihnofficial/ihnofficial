@@ -30,7 +30,7 @@
 <img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
     
-<a href="tel:8801404233019" target="_blank">
+<a href="https://wa.me/+8801976998856" target="_blank">
 <img src=https://img.shields.io/badge/WatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white alt=watsapp style="margin-bottom: 5px;" />
 </a>
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
