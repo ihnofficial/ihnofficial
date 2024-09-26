@@ -11,28 +11,22 @@
   <h3 align="left">Connect with me:</h3>
 <div align="left" style="padding: 10px; border:1px solid #6600cc">
 
-  <a href="https://www.ihnoffical.com/" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/portfolio-blue.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=github style="margin-bottom: 5px;" />
+ <a href="https://www.ihnoffical.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/portfolio-blue.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/ihnofficial" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.linkedin.com/in/devihnaim/" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.facebook.com/ihnaimbd/" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:ihnaimofficial@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:ihnaimofficial@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-    
-<a href="https://wa.me/+8801976998856" target="_blank" rel="noopener noreferrer">
-<img src=https://img.shields.io/badge/WatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white alt=watsapp style="margin-bottom: 5px;" />
-</a>
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                     alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
