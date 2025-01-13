@@ -2,7 +2,12 @@
 <h3 align="center">A Passionate Backend Developer & Database Expert</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ihnofficial" /> </p>
-
+<h2>
+    <span style='padding-right:10px'>
+        <img width="30px" height="30px" src="https://img.icons8.com/bubbles/50/000000/about.png"/>
+    </span>
+    <b>About Me</b>
+</h2>
 - 🔭 I’m currently working on **Bepza Enterprise License Management System**
 
 - 🌱 I’m currently learning **Angular JS & Advance MSSQL**
