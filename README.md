@@ -2,18 +2,27 @@
 <h3 align="center">A Passionate Backend Developer & Database Expert</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ihnofficial" /> </p>
-<h2>
-    <span style='padding-right:10px'>
-        <img width="30px" height="30px" src="https://img.icons8.com/bubbles/50/000000/about.png"/>
+<h3>
+    <span style='padding-right:10px; padding-top:5px '>
+        <img width="25px" height="25px" src="https://img.icons8.com/bubbles/50/000000/about.png"/>
     </span>
     <b>About Me</b>
-</h2>
-- 🔭 I’m currently working on **Bepza Enterprise License Management System**
-
-- 🌱 I’m currently learning **Angular JS & Advance MSSQL**
+</h3>
+- 👋 I’m Nasirul-Islam an Enthusiastic Programmer.  <br />
+- 👀 I’m interested in exploring new technology in the programming ocean. <br />
+- 💻 I’m currently working on **WPF, ASP.NET Core, SQL Server** <br />
+- 💞️ I’m looking to collaborate on OpenSource Projects <br />
+- 📫 How to reach me **ihnaimofficial@gmail.com** <br />
+- 🔭 I’m currently working on **Bepza Enterprise License System**  <br />
+- 🌱 I’m currently learning **Angular JS & Advance MSSQL**  <br />
 
 <div>
-  <h3 align="left">Connect with me:</h3>
+  <h2 style='margin-top:30px'>
+    <span>
+        <img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/>
+    </span>
+    <b>Connect with me :</b>
+</h2>
 <div align="left" style="padding: 10px; border:1px solid #6600cc">
 
  <a href="https://www.ihnoffical.com/" target="_blank" rel="noopener noreferrer">
