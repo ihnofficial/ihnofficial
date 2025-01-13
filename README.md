@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail Hossain Naim</h1>
 <h3 align="center">A Passionate Backend Developer & Database Expert</h3>
-<img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ihnofficial" /> </p>
 <h3>
     <span style='padding-right:10px; padding-top:5px '>
@@ -9,8 +9,8 @@
     <b>About Me</b>
 </h3>
 - 👋 I’m Nasirul-Islam an Enthusiastic Programmer.  <br />
-- 👀 I’m interested in exploring new technology in the programming ocean. <br />
-- 💻 I’m currently working on **WPF, ASP.NET Core, SQL Server** <br />
+- 👀 I’m interested in exploring new technology. <br />
+- 💻 I’m currently working With **WPF, ASP.NET Core, SQL Server** <br />
 - 💞️ I’m looking to collaborate on OpenSource Projects <br />
 - 📫 How to reach me **ihnaimofficial@gmail.com** <br />
 - 🔭 I’m currently working on **Bepza Enterprise License System**  <br />
