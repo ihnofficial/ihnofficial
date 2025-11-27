@@ -8,9 +8,9 @@
     </span>
     <b>About Me</b>
 </h3>
-- 👋 I’m Nasirul-Islam an Enthusiastic Programmer.  <br />
+- 👋 I’m IH Naim an Enthusiastic Programmer.  <br />
 - 👀 I’m interested in exploring new technology. <br />
-- 💻 I’m currently working With **WPF, ASP.NET Core, SQL Server** <br />
+- 💻 I’m currently working With **.NET Core Web API, MVC, MSSQL,** <br />
 - 💞️ I’m looking to collaborate on OpenSource Projects <br />
 - 📫 How to reach me **ihnaimofficial@gmail.com** <br />
 - 🔭 I’m currently working on **Bepza Enterprise License System**  <br />
