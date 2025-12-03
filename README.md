@@ -36,7 +36,7 @@
         <li>🔭 Currently working on: <strong>Accounting ERP with Blazor</strong></li>
         <li>💻 Backend Stack: <strong>.NET Core, MVC, Node.js</strong></li>
         <li>🎨 Frontend Stack: <strong>Next.js, TailwindCSS</strong></li>
-        <li>🌱 Learning: <strong>Advanced Microservices & Azure DevOps</strong></li>
+        <li>🌱 Learning: <strong>Advanced Microservices ,Node & DevOps</strong></li>
         <li>🤝 Looking to collaborate on: <strong>Open Source Projects</strong></li>
       </ul>
     </td>
