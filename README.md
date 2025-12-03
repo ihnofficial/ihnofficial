@@ -8,13 +8,13 @@
     </span>
     <b>About Me</b>
 </h3>
-- 👋 I’m IH Naim an Enthusiastic Programmer.  <br />
-- 👀 I’m interested in exploring new technology. <br />
-- 💻 I’m currently working With **.NET Core Web API, MVC, MSSQL,** <br />
+- 👋 I’m Mr. Naim an Passionate Programmer.  <br />
+- 👀 I’m interested in exploring new Software Business & technology. <br />
+- 💻 I’m currently working With **.NET Core Web API, MVC, MSSQL** <br />
 - 💞️ I’m looking to collaborate on OpenSource Projects <br />
 - 📫 How to reach me **ihnaimofficial@gmail.com** <br />
-- 🔭 I’m currently working on **Bepza Enterprise License System**  <br />
-- 🌱 I’m currently learning **Angular JS & Advance MSSQL**  <br />
+- 🔭 I’m currently working on **Accounting ERP with Blazor**  <br />
+- 🌱 I’m currently learning **Micro Services & Devops Enginnering**  <br />
 
 <div>
   <h2 style='margin-top:30px'>
