@@ -1,77 +1,105 @@
-<h1 align="center">Hi 👋, I'm Ismail Hossain Naim</h1>
-<h3 align="center">A Passionate Backend Developer & Database Expert</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ihnofficial" /> </p>
-<h3>
-    <span style='padding-right:10px; padding-top:5px '>
-        <img width="25px" height="25px" src="https://img.icons8.com/bubbles/50/000000/about.png"/>
-    </span>
-    <b>About Me</b>
-</h3>
-- 👋 I’m Mr. Naim an Passionate Programmer.  <br />
-- 👀 I’m interested in exploring new Software Business & technology. <br />
-- 💻 I’m currently working With **.NET Core Web API, MVC, MSSQL** <br />
-- 💞️ I’m looking to collaborate on OpenSource Projects <br />
-- 📫 How to reach me **ihnaimofficial@gmail.com** <br />
-- 🔭 I’m currently working on **Accounting ERP with Blazor**  <br />
-- 🌱 I’m currently learning **Micro Services & Devops Enginnering**  <br />
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ismail+Hossain+Naim;Backend+Developer;Database+Expert;.NET+Core+%26+Microservices" alt="Typing SVG" />
 
-<div>
-  <h2 style='margin-top:30px'>
-    <span>
-        <img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/>
-    </span>
-    <b>Connect with me :</b>
-</h2>
-<div align="left" style="padding: 10px; border:1px solid #6600cc">
+  <p>
+    <a href="https://github.com/ihnofficial">
+      <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat-square" alt="ihnofficial" />
+    </a>
+  </p>
+</div>
 
- <a href="https://www.ihnoffical.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/portfolio-blue.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/ihnofficial" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/devihnaim/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ihnaimbd/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:ihnaimofficial@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
+<div align="center">
+<table>
+  <tr>
+    <td valign="center">
+      <h1>About Me</h1>
+      <p>
+        I am a passionate <strong>Software Engineer</strong> interested in building robust backend systems and exploring new business technologies. I specialize in the <strong>Microsoft .NET Ecosystem</strong> and database management.
+      </p>
+      <ul>
+        <li>🔭 Currently working on: <strong>Accounting ERP with Blazor</strong></li>
+        <li>💻 Tech Stack: <strong>.NET Core Web API, MVC, MSSQL</strong></li>
+        <li>🌱 Learning: <strong>Microservices & DevOps Engineering</strong></li>
+        <li>👯 Looking to collaborate on: <strong>Open Source Projects</strong></li>
+        <li>📫 Contact: <strong><a href="mailto:ihnaimofficial@gmail.com">ihnaimofficial@gmail.com</a></strong></li>
+      </ul>
+    </td>
+    <td valign="center">
+      <img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" alt="coding-gif" />
+    </td>
+  </tr>
+</table>
+</div>
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                    alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                    alt="csharp" width="40" height="40" /> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-                        alt="dotnet" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                            alt="html5" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-                        height="40" /> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                            alt="javascript" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-                                src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-                                height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                                alt="mysql" width="40" height="40" /> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                                    alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-                                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                                        height="40" /> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                                            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                        alt="photoshop" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                    alt="illustrator" width="40" height="40" /> </a> </p>
+<div align="center">
+  <h2>🚀 Technical Skills</h2>
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ihnofficial" alt="ihnofficial" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><strong>Backend</strong></td>
+    <td align="center" width="90"><strong>Frontend</strong></td>
+    <td align="center" width="90"><strong>Database</strong></td>
+    <td align="center" width="90"><strong>Tools & DevOps</strong></td>
+    <td align="center" width="90"><strong>Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="48" height="48" alt=".NET" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="MSSQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="Postgres" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="PS" />
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="AI" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihnofficial&show_icons=true&locale=en&layout=compact" alt="ihnofficial" /></p>
+<br/>
+
+<div align="center">
+  <h2>Connect with me 🤝</h2>
+  <a href="https://www.ihnoffical.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/devihnaim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://github.com/ihnofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.facebook.com/ihnaimbd/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="mailto:ihnaimofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihnofficial&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ihnofficial" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihnofficial&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ihnofficial" height="150" />
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihnofficial&theme=tokyonight&hide_border=true&background=0D1117" alt="ihnofficial" />
+</div>
